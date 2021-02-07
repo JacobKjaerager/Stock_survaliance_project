@@ -1,0 +1,24 @@
+stockName;buyPriceLocalValuta;quantity;acquiringDate;stockOwner
+VWS.CO;936,40;5,00;09/09/2020;Jacob Kjærager
+GMAB.CO;2237,00;2,00;09/09/2020;Jacob Kjærager
+AMD;79,52;10,00;09/09/2020;Jacob Kjærager
+MSFT;210,20;4,00;09/09/2020;Jacob Kjærager
+GOOGL;1543,15;1,00;09/09/2020;Jacob Kjærager
+NOVO-B.CO;421,40;30,00;09/09/2020;Jacob Kjærager
+NVDA;506,69;2,00;09/09/2020;Jacob Kjærager
+DSV.CO;989,60;3,00;09/09/2020;Jacob Kjærager
+VOLV-B.ST;215,00;50,00;03/02/2021;Jacob Kjærager
+DSV.CO;1006,50;2,00;03/02/2021;Jacob Kjærager
+NOVO-B.CO;414,60;65,00;22/01/2020;Signija Gulajevska
+ORSTED.CO;715,20;21,00;22/01/2020;Signija Gulajevska
+BYND;130,73;16,00;22/01/2020;Signija Gulajevska
+AMZN;1879,55;1,00;23/01/2020;Signija Gulajevska
+BYND;155,34;-16,00;08/06/2020;Signija Gulajevska
+RBREW.CO;548,80;30,00;09/06/2020;Signija Gulajevska
+AMZN;3051,06;1,00;27/07/2020;Signija Gulajevska
+NOVO-B.CO;430,05;10,00;28/07/2020;Signija Gulajevska
+AMBU-B.CO;222,00;23,00;30/07/2020;Signija Gulajevska
+SAVE.ST;96,00;102,00;25/11/2020;Signija Gulajevska
+AMBU-B.CO;195,85;20,00;25/11/2020;Signija Gulajevska
+NEE;73,78;18,00;30/11/2020;Signija Gulajevska
+NZYM-B.CO;347,40;19,00;10/12/2020;Signija Gulajevska
